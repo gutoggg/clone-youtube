@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 105 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-357.332,-322.138)">
+        <g transform="matrix(1,0,0,1,8.51475,30.8423)">
+            <g transform="matrix(1,0,0,1,-0.0545107,0.151065)">
+                <path d="M377.443,295.641C377.443,293.159 375.429,291.145 372.947,291.145L353.367,291.145C350.886,291.145 348.871,293.159 348.871,295.641L348.871,307.085C348.871,309.566 350.886,311.58 353.367,311.58L372.947,311.58C375.429,311.58 377.443,309.566 377.443,307.085L377.443,295.641Z" style="fill:rgb(255,0,0);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-8.46056,-30.232)">
+                <path d="M368.043,327.264L367.924,336.227L375.202,331.647L368.043,327.264Z" style="fill:white;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.03127,0,0,1.40473,-5.99848,-79.5943)">
+            <text x="382.174px" y="297.578px" style="font-family:'BowlbyOneSC-Regular', 'Bowlby One SC';font-stretch:ultra-condensed;font-size:12px;fill:white;">CloneTube</text>
+        </g>
+    </g>
+</svg>

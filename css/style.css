@@ -1,0 +1,67 @@
+:root {
+   --header-bg-color: rgb(33,33,33);
+   --header-search-button-bg-color: rgb(49,49,49);
+
+}
+
+body{
+   height: 200vh;
+}
+
+.horizontal-header {
+   position: fixed;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: space-around;
+   background: var(--header-bg-color);
+   height: 60px;
+   border: solid #000 1px;
+   width: 100%;
+}
+
+.header-menu-icon {
+   height: 50%;
+   justify-self: center;
+}
+
+.header-logo-clonetube {
+   height: 50%;
+}
+
+.header-search {
+   display: flex;
+   width: 40%;
+   height: 55%;
+}
+
+.header-search-text {
+   flex-grow: 6;
+   border: none;
+   color: #808080;
+   background-color: rgb(18, 18, 18) ;
+   font-size: 1em;
+}
+
+.header-search-text:focus {
+   outline: none;
+}
+
+.header-search-button{
+   flex-grow: 1;
+   background-color: var(--header-search-button-bg-color);
+   border: none;
+}
+
+.header-search-button img{
+   width: 25px;
+}
+
+.header-user-icon{
+   height: 50%;
+   border-radius: 100%;
+}
+
+.pointer:hover{
+   cursor: pointer;
+}
